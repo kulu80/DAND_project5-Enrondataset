@@ -25,4 +25,4 @@ email features: ['to_messages', 'email_address', 'from_poi_to_this_person', 'fro
 POI label: [‘poi’] (boolean, represented as integer)
 You are encouraged to make, transform or rescale new features from the starter features. If you do this, you should store the new feature to my_dataset, and if you use the new feature in the final algorithm, you should also add the feature name to my_feature_list, so your coach can access it during testing. For a concrete example of a new feature that you could add to the dataset, refer to the lesson on Feature Selection.
 
-NEXT
+
